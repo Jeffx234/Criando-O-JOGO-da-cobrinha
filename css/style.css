@@ -1,0 +1,12 @@
+body {
+  width: 95;
+  height: 95vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+  color: green;
+  font-size: 30px;
+}
